@@ -1,13 +1,13 @@
-Source: hydrapwk-wallpaper
+Source: nethydra-wallpaper
 Section: unknown
 Priority: optional
 Maintainer: Joe <joe@rstrike.my.id>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.6.1
-Homepage: https://gitlab.com/hydrapwk/packages/hydrapwk-wallpapers
+Homepage: https://gitlab.com/nethydra/packages/nethydra-wallpapers
 Rules-Requires-Root: no
-Vcs-Git: https://gitlab.com/hydrapwk/packages/hydrapwk-wallpapers.git
-Vcs-Browser: https://gitlab.com/hydrapwk/packages/hydrapwk-wallpapers
+Vcs-Git: https://gitlab.com/nethydra/packages/nethydra-wallpapers.git
+Vcs-Browser: https://gitlab.com/nethydra/packages/nethydra-wallpapers
 
 Package: hydrapwk-wallpapers
 Architecture: all
