@@ -26,3 +26,9 @@ Architecture: all
 Multi-Arch: foreign
 Depends: ${misc:Depends}
 Description: Official NetHydra wallpaper collections
+
+Package: netopsy-wallpapers
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Official NetOpsy wallpapers collection
