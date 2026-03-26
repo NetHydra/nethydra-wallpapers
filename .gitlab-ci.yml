@@ -7,6 +7,6 @@ build-jobs:
   stage: build
   script:
     - echo "Installing dependencies"
-    - apt install -y debmake debhelper-compat packaging-dev
+    - apt update && apt install -y debmake debhelper-compat packaging-dev
     - echo "Building package"
     - dpkg-buildpackage -nc -i
