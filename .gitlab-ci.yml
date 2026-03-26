@@ -1,0 +1,10 @@
+stages:
+  - build
+
+build-jobs:
+  stage: build
+  script:
+    - echo "Installing dependencies"
+    - sudo apt install -y debmake debhelper-compat packaging-dev
+    - echo "Building package"
+    - dpkg-buildpackage -nc -i
