@@ -32,3 +32,9 @@ Architecture: all
 Multi-Arch: foreign
 Depends: ${misc:Depends}
 Description: Official NetOpsy wallpapers collection
+
+Package: sonar-wallpapers
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Official NetHydra sonar wallpapers collections
