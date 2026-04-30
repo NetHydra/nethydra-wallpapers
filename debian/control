@@ -27,11 +27,11 @@ Multi-Arch: foreign
 Depends: ${misc:Depends}
 Description: Official NetHydra wallpaper collections
 
-Package: netopsy-wallpapers
+Package: backtrace-wallpapers
 Architecture: all
 Multi-Arch: foreign
 Depends: ${misc:Depends}
-Description: Official NetOpsy wallpapers collection
+Description: Official backtrace wallpapers collection
 
 Package: sonar-wallpapers
 Architecture: all
