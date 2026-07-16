@@ -1,3 +1,9 @@
+nethydra-wallpapers (1.1.0+nethydra0) moto; urgency=low
+
+  * Import NetHydra 1.1.0(Moto) wallpapers
+
+ -- Joe <joe@rstrike.my.id>  Thu, 16 Jul 2026 09:03:00 +0700
+
 nethydra-wallpapers (2026.2+nethydra0) sana; urgency=low
 
   * Import NetHydra sonar wallpaper
