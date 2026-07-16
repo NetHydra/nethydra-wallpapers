@@ -25,7 +25,7 @@ Package: nethydra-wallpapers
 Architecture: all
 Multi-Arch: foreign
 Depends: ${misc:Depends}
-Breaks: nethydra-wallpapers (<=2026.2+nethydra0)
+Breaks: nethydra-wallpapers (<= 2026.2+nethydra0)
 Description: Official NetHydra wallpaper collections
 
 Package: backtrace-wallpapers
